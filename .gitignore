@@ -1,0 +1,4 @@
+*.pgm
+.cproject
+.project
+ant

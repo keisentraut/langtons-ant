@@ -179,6 +179,7 @@ int main(int argc, char* argv[])
 	}
 
 	size_t steps = 0;
+	//while (step() == TRUE);
 	while (step() == TRUE && steps < MAX_STEPS)
 		steps++;
 
